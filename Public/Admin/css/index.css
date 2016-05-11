@@ -1,0 +1,13 @@
+#left
+{
+    float:left;
+    width:13%;
+    height:100%
+}
+
+#right
+{
+    float: left;
+    width:87%;
+    height:100%;
+}
